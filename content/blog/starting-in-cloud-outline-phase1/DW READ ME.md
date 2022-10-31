@@ -1,7 +1,7 @@
 ---
-title: Becoming a cloud engineer into 6 months to 1 year! 
+title: Journey to a Cloud Engineer 
 date: "2022-10-31"
-description: "An Outline guide to learning the needed skills before going in a cloud engineer role"
+description: "IT Infrastructure Technician to an Cloud Engineer Route"
 ---
 
 Location of notepad C:\Users\DW\OneDrive\Documents\Learning
