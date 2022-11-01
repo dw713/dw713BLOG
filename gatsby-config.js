@@ -3,7 +3,7 @@ module.exports = {
     title: `Cloud and Home Lab Projects`,
     author: {
       name: `Dylan Wallace`,
-      summary: `IT Infrastructure Technician sharing his jorney into Cloud Engineering.`,
+      summary: `Personal project blog sharing my journey into Cloud Engineering!`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
