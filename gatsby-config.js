@@ -16,7 +16,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/blog`,
+        path: `C:\Users\DW\Documents\GitHub\dw713BLOG\content\blog`,
         name: `blog`,
       },
     },
@@ -24,7 +24,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dw713blog}/src/images`,
+        path: `C:\Users\DW\Documents\GitHub\dw713BLOG\src\images\1581181005448.jpg`,
       },
     },
     {
