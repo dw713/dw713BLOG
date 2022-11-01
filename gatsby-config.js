@@ -16,7 +16,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `C:\Users\DW\Documents\GitHub\dw713BLOG\content\blog`,
+        path: ``,
         name: `blog`,
       },
     },
@@ -24,7 +24,7 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `C:\Users\DW\Documents\GitHub\dw713BLOG\src\images\1581181005448.jpg`,
+        path: ``,
       },
     },
     {
@@ -115,7 +115,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/1581181005448.jpg`, // This path is relative to the root of the site.
+        icon: `src/images/`, // This path is relative to the root of the site.
       },
     },
   ],
