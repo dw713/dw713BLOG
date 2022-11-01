@@ -1,7 +1,7 @@
 ---
-Title: How To Deploy Terraform IaaS to Docker
-Date: 2022-31-10
-Description: Lab: Create Terraform Infrastructure with Docker
+title: AWS Terraform Deployment with Docker
+date: "2022-10-31"
+description: "Using Terraform Infrastrucure as a Code with Docker"
 ---
 
 Head over to the link below to access the Module. Run the steps below on how to deploy Terraform AWS with Docker
